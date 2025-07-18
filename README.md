@@ -1,6 +1,6 @@
 [![Netology AHJ](https://github.com/TanyaSerkova/ahj_animation/actions/workflows/web.yml/badge.svg)](https://github.com/TanyaSerkova/ahj_animation/actions/workflows/web.yml)
 
-[https://tanyaserkova.github.io/ahj_forms/
+https://tanyaserkova.github.io/ahj_animation/
 
 # Домашнее задание к занятию "9. Анимации и CSS"
 
